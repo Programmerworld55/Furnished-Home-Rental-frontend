@@ -1,4 +1,4 @@
-// import React from 'react';
+import React from 'react'; // Ensure React is imported
 import { NavLink } from 'react-router-dom';
 import '../../Styles/Navbar.css';
 import logo from "../../assets/logo3.png";

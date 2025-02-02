@@ -1,5 +1,5 @@
-// import React from "react";
-import "../../Styles/Hero.css";
+import React from "react";
+import "../../Styles/Hero.css"; 
 import { FaSearch, FaUserFriends, FaCalendarAlt, FaMapMarkerAlt } from "react-icons/fa";
 
 const Hero = () => {
