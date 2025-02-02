@@ -1,0 +1,34 @@
+.navbar {
+  background-color: gray; /* Changed background color to gray */
+  color: white;
+}
+
+.navbar-brand img {
+  margin-right: 10px;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: white;
+  padding: 10px 15px;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  color: #007bff;
+  text-decoration: underline;
+}
+
+.navbar-nav .nav-item .nav-link.active {
+  font-weight: bold;
+  color: #007bff;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+@media (max-width: 992px) {
+  .navbar-nav {
+    text-align: center;
+  }
+}

@@ -1,0 +1,19 @@
+.property-card {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .property-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .property-card img {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  @media (max-width: 768px) {
+    .property-card img {
+      height: 150px;
+    }
+  }
