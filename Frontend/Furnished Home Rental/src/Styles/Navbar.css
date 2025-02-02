@@ -25,6 +25,7 @@
 
 .navbar-toggler {
   border: none;
+  color: white; /* Ensure the toggle button icon is white */
 }
 
 @media (max-width: 992px) {
