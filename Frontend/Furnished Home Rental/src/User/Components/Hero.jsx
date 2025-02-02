@@ -1,5 +1,5 @@
 import React from "react";
-import "../../Styles/Hero.css"; 
+import "../../Styles/hero.css"; // Ensure this path is correct and matches case sensitivity
 import { FaSearch, FaUserFriends, FaCalendarAlt, FaMapMarkerAlt } from "react-icons/fa";
 
 const Hero = () => {
