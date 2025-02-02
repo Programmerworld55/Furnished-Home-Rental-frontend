@@ -7,7 +7,7 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-content">
         <h1>Find your next stay</h1>
-        <p>Search deals on hotels, homes, and much more...</p>
+        <p>Search deals on hotels, homes, and much more...updated</p>
       </div>
       <div className="search-box">
         <div className="search-item">
